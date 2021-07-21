@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi
+This is very brief description of projects I take part in.<br>
+Currently I participate in two git organization in collaboration with one another github user.<br>
+Those organizations are:<br>
+https://github.com/AnnaNikitaRL <br>
+https://github.com/AnnaNikitaML <br>
+<br>
+Here is also url to my LinkedIn:<br>
+https://www.linkedin.com/in/nikita-trukhanov-04483158/
+
 
 <!--
 **darthrevenge/darthrevenge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
