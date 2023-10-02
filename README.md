@@ -1,9 +1,8 @@
 ### Hi
 This is very brief description of projects I take part in.<br>
-Currently I participate in two git organization in collaboration with one another github user.<br>
-Those organizations are:<br>
-https://github.com/AnnaNikitaRL <br>
-https://github.com/AnnaNikitaML <br>
+Here are the projects that I made in collaboration with my friend:<br>
+[Ephemeral Value Adjustment (memory in RL)](https://github.com/AnnaNikitaRL/EVA) <br>
+[Graph Neural Network for molecular properties](https://github.com/AnnaNikitaML/GraphConvolutionalNetwork)  <br>
 <br>
 Here is also url to my LinkedIn:<br>
 https://www.linkedin.com/in/nikita-trukhanov-04483158/
