@@ -2,7 +2,8 @@
 This is very brief description of projects I take part in.<br>
 Here are the projects that I made in collaboration with my friend:<br>
 [Ephemeral Value Adjustment (memory in RL)](https://github.com/AnnaNikitaRL/EVA) <br>
-[Graph Neural Network for molecular properties](https://github.com/AnnaNikitaML/GraphConvolutionalNetwork)  <br>
+[Graph Neural Network for molecular properties](https://github.com/AnnaNikitaML/GraphConvolutionalNetwork) <br>
+[ChatBot tutor](https://github.com/AnnaNikitaML/claude-sensei) <br>
 <br>
 Here is also url to my LinkedIn:<br>
 https://www.linkedin.com/in/nikita-trukhanov-04483158/
